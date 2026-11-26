@@ -1,1 +1,1 @@
-# TinkoffSignals
+# TradingSignals
